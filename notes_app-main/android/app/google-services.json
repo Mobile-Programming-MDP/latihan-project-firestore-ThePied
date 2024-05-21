@@ -1,32 +1,13 @@
 {
   "project_info": {
-    "project_number": "803682927970",
-    "project_id": "fasum-app-dd0c1",
-    "storage_bucket": "fasum-app-dd0c1.appspot.com"
+    "project_number": "176285058291",
+    "project_id": "notes-d283c",
+    "storage_bucket": "notes-d283c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:803682927970:android:0778be0c9b49252e79983b",
-        "android_client_info": {
-          "package_name": "com.example.fasum"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAv2RmWrqPYcBe1lH6gCoPYa0Y0kGBb6GM"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:803682927970:android:c56e5ac883451d8379983b",
+        "mobilesdk_app_id": "1:176285058291:android:50d9dc72cb92e479b7e386",
         "android_client_info": {
           "package_name": "com.example.notes"
         }
@@ -34,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAv2RmWrqPYcBe1lH6gCoPYa0Y0kGBb6GM"
+          "current_key": "AIzaSyD2LhaLe6UIoFwO0rznJ_D8qyKQJLUir-A"
         }
       ],
       "services": {
